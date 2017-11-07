@@ -1,7 +1,7 @@
 {
   "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "change_calculator": "https://ck-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://ck-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://ck-san-diego-top-spots.herokuapp.com/",
+  "vstda": "https://ck-vstda.herokuapp.com/"
 }
